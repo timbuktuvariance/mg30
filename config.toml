@@ -1,35 +1,26 @@
 baseurl = "https://dazzling-poincare-b7ea5f.netlify.com"
-title = "yii.im"
-theme = "vec"
-languageCode = "en-us"
-paginate = 10
 disqusShortname = ""
 googleAnalytics = ""
-
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "post"
-    weight = 0
-    url = "/post"
-  [[menu.main]]
-    name = "contact"
-    weight = 1
-    url = "/contact"
-  [[menu.main]]
-    name = "faq"
-    weight = 2
-    url = "/faq"
-
+languageCode = "en-us"
+paginate = 10
+theme = "vec"
+title = "yii.im"
+[[menu.main]]
+name = "contact"
+url = "/contact"
+weight = 2
+[[menu.main]]
+name = "post"
+url = "/post"
+weight = 1
 [params]
-  Keywords = "key, 关键字, キーワード"
-  Description = "There are some words to describe your site"
-  Avatar = "img/avatar.jpg"
-  SelfIntro = "Just a worm, seek for true, live in shadow, no more..."
-  Email = "yiichou@gmail.com"
-
-  GithubID = "Your Github ID"
-  TwitterID = "Your Twitter ID"
-  FacebookID = "Your Facebook ID"
-  LinkedInID = "Your LinkedIn ID"
-  GoogleplusID = "Your Googleplus ID"
+Avatar = "img/avatar.jpg"
+Description = "There are some words to describe your site"
+Email = "yiichou@gmail.com"
+FacebookID = "Your Facebook ID"
+GithubID = "Your Github ID"
+GoogleplusID = "Your Googleplus ID"
+Keywords = "key, 关键字, キーワード"
+LinkedInID = "Your LinkedIn ID"
+SelfIntro = "Just a worm, seek for true, live in shadow, no more..."
+TwitterID = "Your Twitter ID"
