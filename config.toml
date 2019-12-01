@@ -4,7 +4,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
 theme = "vec"
-title = "yii.im"
+title = "miraglobal.com"
 [[menu.main]]
 name = "contact"
 url = "/contact"
@@ -16,11 +16,11 @@ weight = 1
 [params]
 Avatar = "img/avatar.jpg"
 Description = "There are some words to describe your site"
-Email = "yiichou@gmail.com"
+Email = "no@gmail.com"
 FacebookID = "Your Facebook ID"
 GithubID = "Your Github ID"
 GoogleplusID = "Your Googleplus ID"
-Keywords = "key, 关键字, キーワード"
+Keywords = "open source, education"
 LinkedInID = "Your LinkedIn ID"
-SelfIntro = "Just a worm, seek for true, live in shadow, no more..."
+SelfIntro = "Open Source and Education"
 TwitterID = "Your Twitter ID"
