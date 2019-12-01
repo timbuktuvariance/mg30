@@ -30,6 +30,4 @@ Laser cut files for the chassis
 
 Edwards, S. (2018). _Assembly Instructions for a Motor Robot Car Kit 2WD, L298N Motor driver, HC-SC04 Ultrasonic module, Arduino_. Retrieved from [http://www.cs.columbia.edu/\~sedwards/presentations/robot-car-instructions.pdf](http://www.cs.columbia.edu/\~sedwards/presentations/robot-car-instructions.pdf "http://www.cs.columbia.edu/~sedwards/presentations/robot-car-instructions.pdf")
 
-‌
-
 Super Easy to Build 1Sheeld 2 Wheel Drive Robot. (n.d.). Retrieved from [https://create.arduino.cc/projecthub/13766/super-easy-to-build-1sheeld-2-wheel-drive-robot-cb9b66?f=1.](https://create.arduino.cc/projecthub/13766/super-easy-to-build-1sheeld-2-wheel-drive-robot-cb9b66?f=1. "https://create.arduino.cc/projecthub/13766/super-easy-to-build-1sheeld-2-wheel-drive-robot-cb9b66?f=1.")
