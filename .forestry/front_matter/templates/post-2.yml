@@ -17,3 +17,5 @@ fields:
 - type: file
   name: banner
   label: banner
+pages:
+- content/post/self-balanced-robot.md
