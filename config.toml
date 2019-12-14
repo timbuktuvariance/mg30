@@ -15,12 +15,10 @@ url = "/post"
 weight = 1
 [params]
 Avatar = "img/avatar.jpg"
-Description = "There are some words to describe your site"
+Description = "Open source and education"
 Email = "no@gmail.com"
-FacebookID = "Your Facebook ID"
-GithubID = "Your Github ID"
-GoogleplusID = "Your Googleplus ID"
+
 Keywords = "open source, education"
-LinkedInID = "Your LinkedIn ID"
+
 SelfIntro = "Open Source and Education"
 TwitterID = "Your Twitter ID"
