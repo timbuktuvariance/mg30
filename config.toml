@@ -1,4 +1,4 @@
-baseurl = "seazine.org"
+baseurl = "https://seazine.org/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
